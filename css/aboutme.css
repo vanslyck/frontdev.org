@@ -1,0 +1,29 @@
+.pic {
+	width: 30%;
+	border-radius: 10%; 
+}
+
+
+.picleft {
+	margin-right: 30px; 
+	float: left;
+}
+
+.picright {
+	margin-left: 30px;
+	float: right;
+}
+
+.icons {
+	width: 90%;
+
+}
+
+.iconsmaller {
+	padding: 5px
+	margin-bottom: 15px;   	
+}
+
+.iconleftmargin {
+	margin-left: 15%	
+}

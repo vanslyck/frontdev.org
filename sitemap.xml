@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://frontdev.org/post/second-post/</loc>
+    <lastmod>2018-04-25T13:02:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://frontdev.org/post/first-post/</loc>
+    <lastmod>2018-04-25T13:00:25+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://frontdev.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://frontdev.org/post/</loc>
+    <lastmod>2018-04-25T13:02:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://frontdev.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://frontdev.org/about-time/</loc>
+  </url>
+  
+  <url>
+    <loc>http://frontdev.org/</loc>
+    <lastmod>2018-04-25T13:02:04+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
